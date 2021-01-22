@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/savio-mass/static/css/main.15530d52.chunk.css",
+    "main.js": "/savio-mass/static/js/main.a25bad71.chunk.js",
+    "main.js.map": "/savio-mass/static/js/main.a25bad71.chunk.js.map",
+    "runtime-main.js": "/savio-mass/static/js/runtime-main.ae1a87ed.js",
+    "runtime-main.js.map": "/savio-mass/static/js/runtime-main.ae1a87ed.js.map",
+    "static/js/2.668a745f.chunk.js": "/savio-mass/static/js/2.668a745f.chunk.js",
+    "static/js/2.668a745f.chunk.js.map": "/savio-mass/static/js/2.668a745f.chunk.js.map",
+    "static/js/3.ed0fbdb7.chunk.js": "/savio-mass/static/js/3.ed0fbdb7.chunk.js",
+    "static/js/3.ed0fbdb7.chunk.js.map": "/savio-mass/static/js/3.ed0fbdb7.chunk.js.map",
+    "index.html": "/savio-mass/index.html",
+    "static/css/main.15530d52.chunk.css.map": "/savio-mass/static/css/main.15530d52.chunk.css.map",
+    "static/js/2.668a745f.chunk.js.LICENSE.txt": "/savio-mass/static/js/2.668a745f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/savio-mass/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae1a87ed.js",
+    "static/js/2.668a745f.chunk.js",
+    "static/css/main.15530d52.chunk.css",
+    "static/js/main.a25bad71.chunk.js"
+  ]
+}
